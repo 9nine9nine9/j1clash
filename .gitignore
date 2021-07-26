@@ -30,6 +30,7 @@ cabal.config
 *.bin
 *.log
 *.tar.gz
+stack.yaml.lock
 
 *~
 *.DS_Store
